@@ -1,0 +1,4 @@
+TestLink is web based Test Management system. The testlink-mob is the mobile edition of TestLink designed for Android, iPhone and iPad systems. The latest documentation about TestLink is available on [www.teamst.org] or [testlink.sourceforge.net].
+![https://sites.google.com/a/origoconsult.com/origo-consult/home/ipad-iphone-android-testlink-2.jpg](https://sites.google.com/a/origoconsult.com/origo-consult/home/ipad-iphone-android-testlink-2.jpg)
+
+![https://sites.google.com/a/origoconsult.com/origo-consult/home/ipad-iphone-android-testlink.jpg](https://sites.google.com/a/origoconsult.com/origo-consult/home/ipad-iphone-android-testlink.jpg)
